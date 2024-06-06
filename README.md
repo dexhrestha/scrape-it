@@ -1,1 +1,1 @@
-This library scrapes data using selenium and docker.
+# scrape-it
